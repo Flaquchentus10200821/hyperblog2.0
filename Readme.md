@@ -11,7 +11,7 @@ Dios los Bendiga y gracias por leer.
 
 
 Esto es un ejercicio del Curso Git y Github pero la historia es verdadera 
-Hecho y dicho por Daniel Borrero González y si te gusto mira el curso y acercate a Dios que el lo es todo el es el camino, la verdad, y la vida;
+Hecho y dicho por Daniel Borrero González y con la ayuda de su profesor Freidier y si te gusto mira el curso y acercate a Dios que el lo es todo el es el camino, la verdad, y la vida;
 
 (Proverbios 3:5)
 Fíate de Jehová de todo tu corazón, Y no estribes en tu prudencia. 👌
